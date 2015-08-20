@@ -5,5 +5,6 @@ using namespace std;
 
 int main()
 {
-  cout<<"Hello World!!";
+  cout<<"Hello World!!"; //prints "hello world"
+  cout<<"Cummins College of Engineering for Women";
 }
