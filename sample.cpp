@@ -10,4 +10,5 @@ int main()
   cout<<"The integer is :"<<m;
   cout<<"Hello World!!"; //prints "hello world"
   cout<<"Cummins College of Engineering for Women";
+  cout<<"Welcome to Our College";
 }
